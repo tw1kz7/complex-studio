@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Afacad", sans-serif;
+    src: url("fonts/Afacad-VariableFont_wght.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    font-family: "Afacad", sans-serif;
+    background-color: var(--bcg-color);
+}
+
+h1 {
+    font-family: "Afacad", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 23px;
+    margin-left: 74px;
+    color: var(--font-color-main);
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: unset;
+}
+
+.container {
+    max-width: 100%;
+}

@@ -1,0 +1,37 @@
+.hero {
+    display: flex;
+    padding-left: 74px;
+    padding-top: 243px;
+}
+
+.hero__title {
+    font-size: 128px;
+    color: var(--font-color-main);
+    font-weight: 600;
+    line-height: 78%;
+}
+
+.hero__subtitle {
+    color: var(--font-color-main);
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 73%;
+    padding-top: 29px;
+}
+
+.hero__wrapper {
+    padding: 0;
+    margin: 0;
+}
+
+.hero__title p{
+    margin: 0;
+}
+
+.hero__subtitle p{
+    margin: 0;
+}
+
+.hero__banner {
+    padding-top: 248px;
+}

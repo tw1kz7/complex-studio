@@ -1,0 +1,67 @@
+.software {
+    padding-top: 88px;
+}
+
+.software__title {
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 78%;
+    color: var(--font-color-main);
+    opacity: 0.5;
+    padding-left: 74px;
+}
+
+.software__title p{
+    margin: 0;
+}
+
+.software__wrapper {
+    display: flex;
+    align-items: start;
+}
+
+.software__subtitle__wrapper {
+    padding-left: 335px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 83%;
+    color: var(--font-color-main);
+}
+
+.software__subtitle__wrapper p{
+    margin: 0
+}
+.software__subtitle2 {
+    padding-top: 28px;
+}
+
+.software__subtitle3 {
+    padding-top: 28px;
+}
+
+.software__subtitle4 {
+    padding-top: 28px;
+}
+
+.software__subtitle5 {
+    padding-top: 28px;
+}
+
+.software__subtitle6 {
+    padding-top: 28px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 94%;
+}
+
+.software__download {
+    padding-top: 28px;
+}
+
+.software__download__link {
+    color: #2666cc;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 100%;
+    text-decoration: underline;
+}
